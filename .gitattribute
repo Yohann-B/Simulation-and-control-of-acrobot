@@ -1,3 +1,2 @@
-data_swUP.m linguist-detectable=false
-data_swMID.m linguist-detectable=false
-anim_pendubot.m linguist-detectable=false
+* linguist-vendored
+*.m linguist-vendored=false
