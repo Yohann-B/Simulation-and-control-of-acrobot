@@ -1,3 +1,3 @@
-anim_pendubot.m linguist-vendored
-data_swUP.m linguist-vendored
-data_swMID.m linguist-vendored
+anim_pendubot.m linguist-detectable=false
+data_swUP.m linguist-detectable=false
+data_swMID.m linguist-detectable=false
